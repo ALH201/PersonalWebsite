@@ -1,0 +1,123 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background: #E3E6DF;
+}
+nav{
+    background-color: #E3E6DF;
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom: 1px solid #97A782;
+    
+}
+
+a{
+    background-color: #97A782;
+    color: #C0C4c7;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:#97A782;
+    background-color: #C0C4c7;
+}
+
+#classes{
+    height: auto;
+    width: auto;
+    background-color: #F2F4E7; 
+    text-align: center;
+}
+.im_holder{
+    background-color: #F2F4E7;
+}
+
+#creme{
+    background-color: #F2F4E7;
+    border-radius: 50px;
+    text-align: center;
+}
+.links{
+    float: right;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70px 70px 0px 0px;
+    background-color: #97A782;
+    border-bottom: 10px solid #F2F4E7;
+    border-top: 5px solid #F2F4E7;
+    height: auto;
+    width: 140px;
+}
+#home_desc{
+    border-radius: 50px;
+    background-color: #E3E6DF;
+}
+#aboutme{
+    background-color: #F2F4E7; 
+    text-align: center; 
+    border-top: 30px solid #F2F4E7; 
+}
+#facts{
+    background-color: #97A782; 
+    align-items:  center;
+    border-top: 15px solid #97A782;
+    border-left: 45px solid #97A782;
+}
+ul.bullet{
+    list-style-type:circle;
+    border: 35px solid #F2F4E7;
+    padding-left: 55px;
+    border-radius: 20px;
+    background-color: #F2F4E7;
+   
+}
+
+.image2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0px 0px 70px 70px;
+    background-color: #F2F4E7;
+    border-top: 1px solid #97A782;
+    height: auto;
+    width: 140px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  td, th {
+    border: 1px solid #97A782;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #E3E6DF;
+  }
+
+  strong{
+    color: #97A782;
+  }
+  footer{
+    background-color: #97A782;
+    width: 100%;
+  }
+
+  #cour{
+    border-top: auto solid #F2F4E7;
+
+    
+  }
+  #cour2{
+    background-color: #F2F4E7;
+  }
+
